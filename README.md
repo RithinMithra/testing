@@ -2,3 +2,4 @@
 test
 shruti
 as
+latest
